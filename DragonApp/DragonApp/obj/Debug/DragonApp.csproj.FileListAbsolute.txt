@@ -1,0 +1,14 @@
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\DragonApp.exe.config
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\DragonApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\DragonApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\CurveApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\CurveApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\bin\Debug\CurveApp.exe.config
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.csproj.AssemblyReference.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.Properties.Resources.resources
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.csproj.GenerateResource.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.csproj.CoreCompileInputs.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.csproj.CopyComplete
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\DragonApp\DragonApp\obj\Debug\DragonApp.Form1.resources

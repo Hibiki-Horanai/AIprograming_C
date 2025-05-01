@@ -1,0 +1,14 @@
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\bin\Debug\net6.0\ex01.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\bin\Debug\net6.0\ex01.deps.json
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\bin\Debug\net6.0\ex01.dll
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\bin\Debug\net6.0\ex01.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.dll
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\ex01\ex01\obj\Debug\net6.0\ref\ex01.dll

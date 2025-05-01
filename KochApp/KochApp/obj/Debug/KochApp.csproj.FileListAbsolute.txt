@@ -1,0 +1,14 @@
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\KochApp.exe.config
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\KochApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\KochApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\CurveApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\CurveApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\bin\Debug\CurveApp.exe.config
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.csproj.AssemblyReference.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.Form1.resources
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.Properties.Resources.resources
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.csproj.GenerateResource.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.csproj.CoreCompileInputs.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.csproj.CopyComplete
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\KochApp\KochApp\obj\Debug\KochApp.pdb

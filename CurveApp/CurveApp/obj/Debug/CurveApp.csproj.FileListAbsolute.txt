@@ -1,0 +1,10 @@
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\bin\Debug\CurveApp.exe.config
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\bin\Debug\CurveApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\bin\Debug\CurveApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.csproj.AssemblyReference.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.Properties.Resources.resources
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.csproj.GenerateResource.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.csproj.CoreCompileInputs.cache
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.exe
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.pdb
+C:\Users\hibik\source\repos\人工知能プログラミング\CurveApp\CurveApp\obj\Debug\CurveApp.Form1.resources
